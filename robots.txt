@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-owptz0.nextclaw.io/sitemap.xml
